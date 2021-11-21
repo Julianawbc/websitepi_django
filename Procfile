@@ -1,0 +1,1 @@
+web:gunicorn website-djang_heroku.wsgi --log-file -
